@@ -37,3 +37,10 @@ body
     height: 60px;
     width: 180px;
 }
+
+.forCarous
+{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
